@@ -1,20 +1,24 @@
 <div align="center">
 
-  <!-- Blood Moon Samurai Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=240&section=header&text=MUHAMMAD%20NURRAHMAN&fontSize=42&fontAlignY=38&desc=%E2%9A%94%EF%B8%8F%20THE%20WAY%20OF%20THE%20DIGITAL%20RONIN%20%E2%9A%94%EF%B8%8F&descSize=16&descAlignY=62&fontColor=ffffff&animation=twinkling" width="100%" />
+  <!-- Banner Utama Sinematik -->
+  <img src="assets/samurai-banner.jpg" alt="Samurai Banner" width="100%" style="border-radius: 12px; box-shadow: 0 0 20px rgba(225, 29, 72, 0.4);" />
 
-  <!-- Animated Japanese Bushido Typing Text -->
+  <br><br>
+
+  <!-- Animasi Teks Ketik Berdarah -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&duration=3200&pause=1000&color=E11D48&center=true&vCenter=true&width=650&lines=%E5%88%80+%E2%80%94+Forging+Scalable+SaaS+%26+Web+Systems;%E5%89%A3+%E2%80%94+Precision+Database+Architecture+%26+Clean+Code;4%2B+Years+of+Mastering+the+IT+Craft;Student+of+Informatics+%40+Universitas+Ivet" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=21&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=700&lines=%E5%88%80+%E2%80%94+Forging+Scalable+SaaS+%26+Web+Systems;%E5%89%A3+%E2%80%94+Precision+Database+Architecture+%26+Clean+Code;4%2B+Years+of+Disciplined+Craftsmanship;Undergrad+at+Universitas+Ivet+Semarang" alt="Typing SVG" />
   </a>
 
+  <br>
+
+  <!-- Badges Minimalis Flat -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=MuhammadNur02&label=%E8%A1%80%20VISITORS&color=991b1b&style=for-the-badge" alt="Visitors" />
-    <img src="https://img.shields.io/badge/KATANA%20STATUS-READY%20FOR%20QUESTS-e11d48?style=for-the-badge&logo=target&logoColor=white" alt="Status" />
+    <img src="https://komarev.com/ghpvc/?username=MuhammadNur02&label=%E8%A1%80%20VISITORS&color=7f1d1d&style=flat-square" alt="Visitors" />
+    <img src="https://img.shields.io/badge/KATANA%20STATUS-READY%20FOR%20QUESTS-991b1b?style=flat-square&logo=target&logoColor=white" alt="Status" />
   </p>
 
 </div>
-
 ---
 
 ### ⛩️ RONIN BENTO GRID
