@@ -1,28 +1,87 @@
-<h1 align="center">Hi 👋, I'm Muhammad Nurrahman Juliansyah</h1>
-<h3 align="center">A passionate fullstack developer from Indonesia</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadnur02&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadnur02" /> </p>
+  <!-- Header Banner Futuristik -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,30&height=220&section=header&text=MUHAMMAD%20NURRAHMAN%20J.&fontSize=42&fontAlignY=38&desc=Full-Stack%20Web%20%7C%20SaaS%20Architect%20%7C%20Database%20Engineer&descSize=16&descAlignY=62&fontColor=ffffff&animation=twinkling" width="100%" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadnur02" alt="muhammadnur02" /></a> </p>
+  <!-- Animated Typing Headline -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Crafting+Scalable+SaaS+Solutions;Database+Architecture+%26+Clean+Code;4%2B+Years+Hands-On+IT+Experience;Pursuing+CS+at+Universitas+Ivet+Semarang" alt="Typing SVG" />
+  </a>
 
-- 🌱 I’m currently learning **Framework, Course**
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=MuhammadNur02&label=SYSTEM%20VISITS&color=0ea5e9&style=for-the-badge" alt="Visits" />
+    <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20PROJECTS-10b981?style=for-the-badge&logo=codefactor&logoColor=white" alt="Status" />
+  </p>
 
-- 👨‍💻 All of my projects are available at [https://portofolio-v1-one-gamma.vercel.app/](https://portofolio-v1-one-gamma.vercel.app/)
+</div>
 
-- 💬 Ask me about **react**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad nurrahman juliansyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad nurrahman juliansyah" height="30" width="40" /></a>
-<a href="https://instagram.com/rianz_yan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rianz_yan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@julian.alvarez02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@julian.alvarez02" height="30" width="40" /></a>
-</p>
+### 🍱 The Bento Grid
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<table width="100%">
+  <!-- ROW 1: Bio Profile & Core Identity -->
+  <tr>
+    <td colspan="2" width="60%" valign="top">
+      <h4>⚡ CORE DIRECTIVE & BIO</h4>
+      <p>
+        Software engineer dengan fokus utama pada perancangan <b>Web Apps</b>, <b>Arsitektur SaaS</b>, dan <b>Database Engineering</b> berkinerja tinggi. Memadukan estetika UI modern dengan struktur backend yang skalabel dan <i>clean code</i>.
+      </p>
+      <ul>
+        <li>🎓 <b>Akademik:</b> Pendidikan Informatika — Universitas Ivet Semarang</li>
+        <li>💼 <b>Pengalaman:</b> 4+ Tahun di ekosistem rekayasa teknologi informasi</li>
+        <li>🚀 <b>Fokus Utama:</b> SaaS Architecture, Full-Stack Web, Modern UI/UX</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <h4>🌐 SOCIAL MATRIX</h4>
+      <a href="https://github.com/MuhammadNur02"><img src="https://img.shields.io/badge/GitHub-090d16?style=for-the-badge&logo=github&logoColor=white" /></a><br><br>
+      <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br><br>
+      <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    </td>
+  </tr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadnur02&show_icons=true&locale=en&layout=compact" alt="muhammadnur02" /></p>
+  <!-- ROW 2: Tech Stack Badges Matrix -->
+  <tr>
+    <td colspan="3" valign="top">
+      <h4>🛠️ TECH ARSENAL</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,express,postgres,mysql,prisma,docker,git,figma,postman,cloudflare" />
+      </p>
+    </td>
+  </tr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadnur02&show_icons=true&locale=en" alt="muhammadnur02" /></p>
+  <!-- ROW 3: Stats, Streak, and Top Languages Bento -->
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <h4>📊 METRICS</h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=MuhammadNur02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <h4>🔥 STREAK ENGINE</h4>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNur02&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <h4>🧬 CODE SHARE</h4>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNur02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
+    </td>
+  </tr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadnur02&" alt="muhammadnur02" /></p>
+  <!-- ROW 4: Dynamic Snake Animation Canvas -->
+  <tr>
+    <td colspan="3" align="center" valign="middle">
+      <h4>🐍 CONTRIBUTION MATRIX</h4>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadNur02/MuhammadNur02/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadNur02/MuhammadNur02/output/github-contribution-grid-snake.svg">
+        <img alt="GitHub Contribution Snake Grid" src="https://raw.githubusercontent.com/MuhammadNur02/MuhammadNur02/output/github-contribution-grid-snake-dark.svg" width="100%" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,30&height=100&section=footer" width="100%" />
+</div>
