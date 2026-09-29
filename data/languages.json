@@ -1,0 +1,28 @@
+{
+  "languages": [
+    {
+      "name": "TypeScript",
+      "pct": 44.5
+    },
+    {
+      "name": "JavaScript",
+      "pct": 23.0
+    },
+    {
+      "name": "CSS",
+      "pct": 12.5
+    },
+    {
+      "name": "HTML",
+      "pct": 9.0
+    },
+    {
+      "name": "SQL",
+      "pct": 6.5
+    },
+    {
+      "name": "Lainnya",
+      "pct": 4.5
+    }
+  ]
+}

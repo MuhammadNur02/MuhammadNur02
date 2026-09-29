@@ -1,0 +1,18 @@
+{
+  "tools": [
+    {"name": "TypeScript", "abbr": "TS", "color": "#7A8FA6"},
+    {"name": "JavaScript", "abbr": "JS", "color": "#E8A33D"},
+    {"name": "Next.js", "abbr": "Nx", "color": "#EDE3D3"},
+    {"name": "React", "abbr": "Re", "color": "#7AB7C9"},
+    {"name": "Tailwind", "abbr": "Tw", "color": "#5FA8A0"},
+    {"name": "Node.js", "abbr": "No", "color": "#7A9E7E"},
+    {"name": "PostgreSQL", "abbr": "Pg", "color": "#8A9BC9"},
+    {"name": "MySQL", "abbr": "My", "color": "#C99A5F"},
+    {"name": "Prisma", "abbr": "Pr", "color": "#9E8AC9"},
+    {"name": "Docker", "abbr": "Dk", "color": "#5F9BC9"},
+    {"name": "Git", "abbr": "Gi", "color": "#C9432A"},
+    {"name": "Figma", "abbr": "Fg", "color": "#C95F8A"},
+    {"name": "Postman", "abbr": "Pm", "color": "#E8743D"},
+    {"name": "Cloudflare", "abbr": "Cf", "color": "#E8A33D"}
+  ]
+}
