@@ -2,27 +2,27 @@
   "languages": [
     {
       "name": "TypeScript",
-      "pct": 73.3
+      "pct": 80.7
     },
     {
       "name": "JavaScript",
-      "pct": 19.4
-    },
-    {
-      "name": "HTML",
-      "pct": 2.7
+      "pct": 13.3
     },
     {
       "name": "CSS",
       "pct": 2.1
     },
     {
+      "name": "HTML",
+      "pct": 1.7
+    },
+    {
       "name": "Python",
-      "pct": 1.9
+      "pct": 1.2
     },
     {
       "name": "Lainnya",
-      "pct": 0.7
+      "pct": 1.0
     }
   ]
 }
