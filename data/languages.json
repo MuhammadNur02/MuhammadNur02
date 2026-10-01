@@ -2,11 +2,11 @@
   "languages": [
     {
       "name": "TypeScript",
-      "pct": 80.3
+      "pct": 80.0
     },
     {
       "name": "JavaScript",
-      "pct": 13.6
+      "pct": 14.0
     },
     {
       "name": "CSS",
