@@ -373,7 +373,7 @@
     0,
     0,
     1,
-    1
+    2
   ],
   "raw_counts": [
     0,
@@ -745,9 +745,9 @@
     0,
     0,
     2,
-    5
+    10
   ],
-  "total_contributions": 948,
+  "total_contributions": 953,
   "current_streak": 2,
   "longest_streak": 20
 }
