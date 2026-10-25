@@ -1,8 +1,8 @@
 {
   "weeks": 53,
   "days_per_week": 7,
-  "start_date": "2025-10-19",
-  "end_date": "2026-10-24",
+  "start_date": "2025-10-26",
+  "end_date": "2026-10-25",
   "levels": [
     0,
     0,
@@ -47,13 +47,6 @@
     0,
     0,
     0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
     1,
     0,
     0,
@@ -374,16 +367,10 @@
     3,
     2,
     3,
-    4
+    4,
+    1
   ],
   "raw_counts": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
     0,
     0,
     0,
@@ -747,9 +734,10 @@
     56,
     43,
     72,
-    109
+    109,
+    17
   ],
-  "total_contributions": 1450,
-  "current_streak": 10,
+  "total_contributions": 1467,
+  "current_streak": 11,
   "longest_streak": 20
 }
