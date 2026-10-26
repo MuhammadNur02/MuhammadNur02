@@ -2,15 +2,15 @@
   "languages": [
     {
       "name": "TypeScript",
-      "pct": 68.1
+      "pct": 68.0
     },
     {
       "name": "PLpgSQL",
-      "pct": 22.5
+      "pct": 23.0
     },
     {
       "name": "JavaScript",
-      "pct": 6.9
+      "pct": 6.7
     },
     {
       "name": "CSS",
@@ -22,7 +22,7 @@
     },
     {
       "name": "Lainnya",
-      "pct": 0.6
+      "pct": 0.5
     }
   ]
 }
