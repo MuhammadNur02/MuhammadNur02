@@ -2,11 +2,11 @@
   "languages": [
     {
       "name": "TypeScript",
-      "pct": 64.1
+      "pct": 63.9
     },
     {
       "name": "PLpgSQL",
-      "pct": 28.1
+      "pct": 28.4
     },
     {
       "name": "JavaScript",
