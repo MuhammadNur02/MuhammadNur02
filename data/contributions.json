@@ -2,7 +2,7 @@
   "weeks": 53,
   "days_per_week": 7,
   "start_date": "2025-11-16",
-  "end_date": "2026-11-15",
+  "end_date": "2026-11-16",
   "levels": [
     0,
     0,
@@ -368,7 +368,8 @@
     0,
     0,
     1,
-    1
+    1,
+    0
   ],
   "raw_counts": [
     0,
@@ -735,7 +736,8 @@
     0,
     0,
     6,
-    5
+    5,
+    0
   ],
   "total_contributions": 1576,
   "current_streak": 2,
